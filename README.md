@@ -11,7 +11,7 @@ https://api-doc-tht.nutech-integrasi.app
 2. Download dan Install xampp https://www.apachefriends.org/download.html
 3. Download dan Install Composer https://getcomposer.org/
 
-4. Buka command prompt di dalam directory htdocs pada folder xampp lalu jalankan baris berikut:
+4. Buka command prompt di dalam directory temppat aplikasi ini akan disimpan lalu jalankan baris berikut:
 
 ```
 git clone https://github.com/joshua59/sims-ppob-joshuapratamasilitonga.git
