@@ -1,18 +1,6 @@
 # SIMS PPOB - Joshua Pratama Silitonga
 
-**SIMS PPOB** adalah aplikasi Assignment Front End Web Programmer yang dibuat mengunakan framework Codeigniter versi 4++ dan Aplikasi **SIMS PPOB** memiliki
-beberapa fitur seperti:
-
-1. Registrasi
-2. Login
-3. Lihat Profile
-4. Update Profile Data
-5. Update Profile Picture
-6. Top Up
-7. Pembayaran
-8. Riwayat Transaksi
-
-## Dokumentasi API SIMS PPOB
+**Aplikasi SIMS PPOB** ini dibuat mengunakan framework Codeigniter versi 4++
 
 Aplikasi SIMS PPOB integration dengan API dari SIMS PPOB sebagai berikut:
 https://api-doc-tht.nutech-integrasi.app
@@ -26,7 +14,7 @@ https://api-doc-tht.nutech-integrasi.app
 4. Buka command prompt di dalam directory htdocs pada folder xampp lalu jalankan baris berikut:
 
 ```
-git clone https://github.com/GallanSJK/sims-ppob-gallanstefanjayakelana.git
+git clone https://github.com/joshua59/sims-ppob-joshuapratamasilitonga.git
 ```
 
 5. Buka command prompt di dalam directory aplikasi sims ppob lalu jalankan baris berikut:
